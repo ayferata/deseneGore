@@ -20,7 +20,6 @@ public class DeseneGoreMetotOlusturma {
       for (int i=sonSayi;i<n;i+=5){
           sonSayi+=5;
           System.out.print(sonSayi+" " );
-
       }
 
     }
